@@ -1,0 +1,58 @@
+Haynes Construction Project Reporting
+BUS 583 | Jaidin Haynes | Week 5: Publish
+
+Sample Construction Project Reporting site for construction project managers.
+
+What this project does:
+The Construction Project Reporting system is designed to organize the rough notes of the construction manager into a draft report of the day’s work. The manager can then check the facts of the report and approve it for publishing to other users of the system.
+
+The following reports are from a course demonstration only. The business and commercial renovation below are fictional. The following four reports were created as new synthetic sample content for this website. They are not actual job-site records or verified AI test outputs. This page does not collect information, send messages, or publish reports automatically.
+
+Four sample daily reports:
+All four examples below describe the same fictional commercial renovation. Each of these reports is the type of update a construction manager would create using the construction reporting system to organize his/her daily job-site notes.
+
+SAMPLE REPORT 01 · MONDAY, NOV. 9, 2026
+Interior demolition
+Work completed today: A four-person crew removed 12 old ceiling panels from the planned renovation area.
+Work still open: Partition framing has not started. Overall renovation is not complete.
+Materials and delays: No material delivery or delay is reported in this sample.
+Manager review: Confirm the quantity removed and the location before releasing the report.
+
+SAMPLE REPORT 02 · TUESDAY, NOV. 10, 2026
+Partition framing begins
+Work completed today: A four-person crew framed 2 of 4 planned interior partition sections.
+Work still open: Two partition sections remain. Framing is in progress, not finished.
+Materials and delays: Metal studs used for the framing. No delivery delay is recorded in this sample.
+Manager review: Verify the two completed sections and the remaining scope.
+
+SAMPLE REPORT 03 · WEDNESDAY, NOV. 11, 2026
+Framing progress and delivery delay
+Work completed today: A three-person crew framed one additional partition section, bringing the total to 3 of 4.
+Work still open: One section remains. Inspection has not been confirmed.
+Materials and delays: A separate exterior material delivery is delayed by rain. A new delivery date is unknown.
+Manager review: Check whether the delay affects the schedule; do not assume that it does.
+
+SAMPLE REPORT 04 · THURSDAY, NOV. 12, 2026
+Framing installed; project still open
+Work completed today: A five-person crew installed the last planned partition section, bringing framing installation to 4 of 4 sections.
+Work still open: Installation is not the same as final approval. Inspection and the rest of the renovation remain open.
+Materials and delays: The exterior material arrival has not been confirmed. Schedule impact is still unknown.
+Manager review: Confirm installation and inspection status before saying framing is complete.
+
+One AI error that shaped the rules
+
+An earlier AI test of a construction job site said interior wall work was “finished” when the notes only said the crew finished what they could do inside. This wording gave the impression that the job was further along than the notes provided evidence for.
+I changed the reporting instructions to report the work completed today and the work that is still open as separate items. I also required the assistant to preserve the numbers in the original notes and to report any missing details as unknown. In the follow-up test, the wording was more accurate. However, the test does not guarantee that the system will always be accurate.
+
+Who decides what is published?
+
+The AI organizes the notes and drafts the report for the Project Manager. 
+The Project Manager then confirms the quantities, completion, delays, etc. for the report and approves what can be published to other people on the team.
+Project manager: Confirms quantities, completion status, delays, and what can be shared.
+Stop rule: If a key detail cannot be verified, hold the report instead of publishing it.
+
+What I plan to automate next
+I will connect a simple notes form or spreadsheet to the AI drafting step. The purpose of this step is to save time in copying the information into the report and to allow the project manager to verify the information in the report and decide whether to publish it.
+
+
+All fictional training examples no real claims
